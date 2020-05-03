@@ -19,5 +19,23 @@
       <description>This is my first blog post on Hugo.</description>
     </item>
     
+    <item>
+      <title>How to build a static website with Hugo</title>
+      <link>http://www.example.com/posts/hugo/</link>
+      <pubDate>Tue, 14 Jan 2020 21:52:17 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/hugo/</guid>
+      <description>I&amp;rsquo;ll show you how to do that</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://www.example.com/posts/second-post/</link>
+      <pubDate>Tue, 14 Jan 2020 21:52:17 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/second-post/</guid>
+      <description>This is my second post on Hugo.</description>
+    </item>
+    
   </channel>
 </rss>

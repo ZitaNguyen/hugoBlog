@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>http://www.example.com/posts/hugo/</loc>
+    <lastmod>2020-01-14T21:52:17+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.example.com/</loc>
     <lastmod>2020-01-14T21:52:17+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.example.com/posts/</loc>
+    <lastmod>2020-01-14T21:52:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/posts/second-post/</loc>
     <lastmod>2020-01-14T21:52:17+01:00</lastmod>
   </url>
   
