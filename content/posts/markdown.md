@@ -1,5 +1,5 @@
 ---
-title: "Markdown - The Basics"
+title: "How to build a static website with Hugo - Part 2: Markdown basics"
 date: 2020-05-04
 tags: ["hugo","markdown"]
 draft: false

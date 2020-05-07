@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## Why to choose Hugo? 
-Hugo is a fast framework to build a static website, and very secure because there is no database to hack. Just a little inconvenience for non-programmers to install and write the content as you need to have ```Markdown``` notion to format your content. But I don't think it is a big barrier. In the post [Markdown - The Basics](../markdown) you find some helpful tips to start off.
+Hugo is a fast framework to build a static website, and very secure because there is no database to hack. Just a little inconvenience for non-programmers to install and write the content as you need to have ```Markdown``` notion to format your content. But I don't think it is a big barrier. In the post [How to build a static website with Hugo - Part 2: Markdown basics](../markdown) you find some helpful tips to start off.
 
 ## How to install Hugo? 
 
