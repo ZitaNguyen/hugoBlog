@@ -1,2 +1,2 @@
 # Zita blog - Hugo
-This is my blog using Hugo theme
+This is my blog using Hugo framework
